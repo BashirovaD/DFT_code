@@ -6,7 +6,7 @@ In this section, we use Python code to calculate the standard 3D PIB solutions f
 
 ## Session 2. Hartree Fock molecular orbitals
 In this section, we perform HF/STO-3G calculations using PySCF to find the frontier MO energies of some selected PAHs. Molecular orbitals or probability densities can be visualized and directly compared to the 3D PIB solutions. <br />
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/PAH_orbitals.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/PAH_Orbitals.ipynb)
 
 ## Session 3. DFT
 In this section, we use Python code to calculate DFT solutions for PAHs. Two choices for exchange-correlation functionals are implemented: LDA and GGA (PBE).  <br />
