@@ -2,7 +2,7 @@
 
 ## Session 1. Particle in the Box
 In this section, we use Python code to calculate the standard 3D PIB solutions for boxes of user-specified dimensions. The eigenenergies and eigenstates can be visualized as an interactive energy diagram and isosurface renderings, respectively. <br />
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/1/3D_PIB.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/1/3d_PIB.ipynb)
 
 ## Session 2. Hartree Fock molecular orbitals
 In this section, we perform HF/STO-3G calculations using PySCF to find the frontier MO energies of some selected PAHs. Molecular orbitals or probability densities can be visualized and directly compared to the 3D PIB solutions. <br />
