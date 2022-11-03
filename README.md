@@ -10,4 +10,4 @@ In this section, we perform HF/STO-3G calculations using PySCF to find the front
 
 ## Session 3. DFT
 In this section, we use Python code to calculate DFT solutions for PAHs. Two choices for exchange-correlation functionals are implemented: LDA and GGA (PBE).  <br />
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/3/DFT_code.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/3/DFT_code1.ipynb)
