@@ -1,4 +1,5 @@
 # DFT_code
+![](https://github.com/BashirovaD/DFT_code/blob/main/figures/graphical_abstract.png)
 
 ## Session 1. Particle in the Box
 In this section, we use Python code to calculate the standard 3D PIB solutions for boxes of user-specified dimensions. The eigenenergies and eigenstates can be visualized as an interactive energy diagram and isosurface renderings, respectively. <br />
