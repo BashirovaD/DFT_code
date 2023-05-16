@@ -7,8 +7,7 @@ This repository contains three Google Colab notebooks that are designed to facil
 In this notebook, we’ll consider the particle in a box system treated in any physical chemistry textbook. High-quality energy level diagrams and isosurface renderings of the wavefunction can be generated from user-specified box lengths. Depicted here is the 321 state of an anthracene-like box of dimensions 16 x 8 x 3 Bohr. <br />
 **Click here to open:** <div <a href="https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/1/3d_PIB1.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
 <br />
-<br>
-<br>
+
 
 ## Notebook 2&ndash;PAH Frontier Orbitals
 Next, we’ll look at a real chemical system in the form of polycyclic aromatic hydrocarbons (PAHs). We can perform Hartree-Fock/STO-3G calculations to find the shapes and energies of their frontier molecular orbitals, which can make for interesting comparisons with the analogous results from Notebook 1.
