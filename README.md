@@ -3,7 +3,7 @@
 
 ## Session 1. Particle in the Box
 In this section, we use Python code to calculate the standard 3D PIB solutions for boxes of user-specified dimensions. The eigenenergies and eigenstates can be visualized as an interactive energy diagram and isosurface renderings, respectively. <br />
-![](https://github.com/BashirovaD/DFT_code/blob/main/figures/NB1_wavefunction.png) <br />
+<div align="center"><img src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB1_wavefunction.png' width = "300" height = "300" /> </a></div> <br />
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/1/3d_PIB1.ipynb)
 
 ## Session 2. Hartree Fock molecular orbitals
