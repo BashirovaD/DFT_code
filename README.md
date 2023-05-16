@@ -1,17 +1,21 @@
 # DFT_code
+This repository contains three Google Colab notebooks that are designed to facilitate understanding of Density-Functional Theory (DFT) through interactive visualizations. Our motivation for developing this software stems from the knowledge deficiency that is often produced from using DFT as a black box in commercial software. By applying DFT to the familiar particle in a box model system employing a real-space grid basis, we hope to have reduced DFT to its fundamental essence fit for pedagogy. Brief instructions for executing the code are provided in each notebook, and a problem sheet for getting started is attached. Python programming knowledge is not required.
 ![](https://github.com/BashirovaD/DFT_code/blob/main/figures/graphical_abstract.png)
 
 ## Session 1. Particle in the Box
-In this section, we use Python code to calculate the standard 3D PIB solutions for boxes of user-specified dimensions. The eigenenergies and eigenstates can be visualized as an interactive energy diagram and isosurface renderings, respectively. <br />
+In this notebook, we’ll consider the particle in a box system treated in any physical chemistry textbook. High-quality energy level diagrams and isosurface renderings of the wavefunction can be generated from user-specified box lengths. Depicted here is the 321 state of an anthracene-like box of dimensions 16 x 8 x 3 Bohr.
+<br />
 <div align="center"><img src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB1_wavefunction.png' width = "300" height = "300" /> </a></div> <br />
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/1/3d_PIB1.ipynb)
 
 ## Session 2. Hartree Fock molecular orbitals
-In this section, we perform HF/STO-3G calculations using PySCF to find the frontier MO energies of some selected PAHs. Molecular orbitals or probability densities can be visualized and directly compared to the 3D PIB solutions. <br />
+Next, we’ll look at a real chemical system in the form of polycyclic aromatic hydrocarbons (PAHs). We can perform Hartree-Fock/STO-3G calculations to find the shapes and energies of their frontier molecular orbitals, which can make for interesting comparisons with the analogous results from Notebook 1.
+<br />
 ![](https://github.com/BashirovaD/DFT_code/blob/main/figures/NB2_anthracene.png) <br />
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/2/PAH_Orbitals1.ipynb)
 
 ## Session 3. DFT
-In this section, we use Python code to calculate DFT solutions for PAHs. Two choices for exchange-correlation functionals are implemented: LDA and GGA (PBE).  <br />
+Finally, we’ll reconsider the system from Notebook 1, but now we’ll turn on electron-electron interaction through the Kohn-Sham potential. We’ll consider each term of the single-particle Hamiltonian and put everything together into a self-consistent field (SCF) DFT calculation. We can then analyze the how the density and eigeneneriges change as a function of SCF iteration number. LDA and PBE are the available exchange-correlation functionals.
+<br />
 ![](https://github.com/BashirovaD/DFT_code/blob/main/figures/NB3_density.png) <br />
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/3/DFT_code1.ipynb)
