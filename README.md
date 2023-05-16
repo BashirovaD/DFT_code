@@ -2,7 +2,7 @@
 This repository contains three Google Colab notebooks that are designed to facilitate understanding of Density-Functional Theory (DFT) through interactive visualizations. Our motivation for developing this software stems from the knowledge deficiency that is often produced from using DFT as a black box in commercial software. By applying DFT to the familiar particle in a box model system employing a real-space grid basis, we hope to have reduced DFT to its fundamental essence fit for pedagogy. Brief instructions for executing the code are provided in each notebook, and a problem sheet for getting started is attached. Python programming knowledge is not required.
 ![](https://github.com/BashirovaD/DFT_code/blob/main/figures/graphical_abstract.png)
 
-## Session 1. Particle in the Box
+## Notebook 1&#150Particle in a 3D Box.
 In this notebook, we’ll consider the particle in a box system treated in any physical chemistry textbook. High-quality energy level diagrams and isosurface renderings of the wavefunction can be generated from user-specified box lengths. Depicted here is the 321 state of an anthracene-like box of dimensions 16 x 8 x 3 Bohr.
 <br />
 <div align="center"><img src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB1_wavefunction.png' width = "300" height = "300" /> </a></div> <br />
