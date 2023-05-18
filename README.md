@@ -26,12 +26,9 @@ Next, we’ll look at a real chemical system in the form of polycyclic aromatic 
 <br />
 <br>
 
-<p align="right">
-  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/2/PAH_Orbitals1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/2/PAH_Orbitals1.ipynb)
 
-</p>
-
+<br>
 <br>
 
 ## Notebook 3&ndash;Density-Functional Theory
