@@ -18,8 +18,6 @@ In this notebook, we’ll consider the particle in a three-dimensional box syste
 <br>
 <br>
 <br>
-<br>
-<br>
 
 
 ## Notebook 2&ndash;PAH Frontier Orbitals
