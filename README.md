@@ -23,7 +23,7 @@ In this notebook, we’ll consider the particle in a three-dimensional box syste
 
 
 ## Notebook 2&ndash;PAH Frontier Orbitals
-<img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB2_anthracene.png' width = "300" height = "169">
+<img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB2_anthracene.png' width = "400" height = "225">
 Next, we’ll look at a real chemical system in the form of polycyclic aromatic hydrocarbons (PAHs). We can perform Hartree-Fock/STO-3G calculations to find the shapes and energies of their frontier molecular orbitals, which can make for interesting comparisons with the analogous results from Notebook 1.
 <br />
 <br>
@@ -43,6 +43,7 @@ Finally, we’ll reconsider the system from Notebook 1, but now we’ll turn on 
 
 <br>
 If you would only like to use the DFT calculator at the end, here is an abbreviated notebook with the calculator and analysis tools:
+<br>
 <br>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/3/DFT_code1.ipynb)
