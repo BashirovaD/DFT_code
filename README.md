@@ -32,5 +32,6 @@ Next, we’ll look at a real chemical system in the form of polycyclic aromatic 
 <img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB3_density.png' width = "300" height = "300">
 Finally, we’ll reconsider the system from Notebook 1, but now we’ll turn on electron-electron interaction through the Kohn-Sham potential. We’ll consider each term of the single-particle Hamiltonian and put everything together into a self-consistent field (SCF) DFT calculation. We can then analyze the how the density and eigeneneriges change as a function of SCF iteration number. LDA and PBE are the available exchange-correlation functionals.
 <br />
+<br>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/3/DFT_code1.ipynb)
