@@ -9,6 +9,7 @@ In this notebook, we’ll consider the particle in a box system treated in any p
 <strong> Click here to open: </strong> 
 <div <a href="https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/1/3d_PIB1.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
 <br />
+<br>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/1/3d_PIB1.ipynb)
 
@@ -23,6 +24,7 @@ In this notebook, we’ll consider the particle in a box system treated in any p
 <img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB2_anthracene.png' width = "300" height = "300">
 Next, we’ll look at a real chemical system in the form of polycyclic aromatic hydrocarbons (PAHs). We can perform Hartree-Fock/STO-3G calculations to find the shapes and energies of their frontier molecular orbitals, which can make for interesting comparisons with the analogous results from Notebook 1.
 <br />
+<br>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/2/PAH_Orbitals1.ipynb)
 
