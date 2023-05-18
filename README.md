@@ -16,7 +16,7 @@ In this notebook, we’ll consider the particle in a box system treated in any p
 ## Notebook 2&ndash;PAH Frontier Orbitals
 Next, we’ll look at a real chemical system in the form of polycyclic aromatic hydrocarbons (PAHs). We can perform Hartree-Fock/STO-3G calculations to find the shapes and energies of their frontier molecular orbitals, which can make for interesting comparisons with the analogous results from Notebook 1.
 <br />
-![](https://github.com/BashirovaD/DFT_code/blob/main/figures/NB2_anthracene.png) <br />
+<img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB2_anthracene.png' width = "300" height = "300">
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/2/PAH_Orbitals1.ipynb)
 
 ## Notebook 3&ndash;Density-Functional Theory
