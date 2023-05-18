@@ -40,3 +40,10 @@ Finally, we’ll reconsider the system from Notebook 1, but now we’ll turn on 
 <br>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/3/DFT_code1.ipynb)
+
+<br>
+If you would only like to use the DFT calculator at the end, here is an abbreviated notebook with the calculator and analysis tools:
+<br>
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/3/DFT_code1.ipynb)
+
