@@ -28,7 +28,7 @@ Next, we’ll look at a real chemical system in the form of polycyclic aromatic 
 <br />
 <br>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/2/PAH_Orbitals1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/notebooks/NB2_PAH_HF.ipynb)
 
 <br>
 <br>
@@ -39,10 +39,10 @@ Finally, we’ll reconsider the system from Notebook 1, but now we’ll turn on 
 <br>
 Full theory notebook:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/3/DFT_code1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/notebooks/NB3_DFT_PIB.ipynb)
 
 <br>
 Abbreviated notebook with the DFT calculator and analysis tools:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/3/DFT_code1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/notebooks/NB3_DFT_PIB_calculator.ipynb)
 
