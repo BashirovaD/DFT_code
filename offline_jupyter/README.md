@@ -5,15 +5,15 @@ Instead of using Google Colab, offline versions of the notebooks have been made 
 ```
 conda create --name DFT_code python=3.10
 ```
-1. Install dependencies to this environment from the requirements.txt file.
+2. Install dependencies to this environment from the requirements.txt file.
 ```sh
 conda activate DFT_code
 pip install -r requirements.txt
 ```
-1. Launch a Jupyter notebook instance.
+3. Launch a Jupyter notebook instance.
 ```sh
 jupyter notebook
 ```
-1. Download the offline versions of the notebooks and open them through the Jupyter IDE. The visualizations should become active after executing the code cells.
+4. Download the offline versions of the notebooks and open them through the Jupyter IDE. The visualizations should become active after executing the code cells.
 
 ![MyImage](https://www.neuralnine.com/wp-content/uploads/2020/07/cropped-Design-ohne-Titel-1-2.png)
