@@ -5,7 +5,7 @@ Instead of using Google Colab, offline versions of the notebooks have been made 
 ```
 conda create --name DFT_code python=3.10
 ```
-2. Install dependencies to this environment from the requirements.txt file.
+2. Install dependencies to this environment from the requirements.txt file. This takes ~4 minutes to complete.
 ```sh
 conda activate DFT_code
 pip install -r requirements.txt
