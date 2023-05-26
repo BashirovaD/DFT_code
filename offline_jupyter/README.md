@@ -15,5 +15,3 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 4. Download the offline versions of the notebooks and open them through the Jupyter IDE. The visualizations should become active after executing the code cells.
-
-![MyImage](https://www.neuralnine.com/wp-content/uploads/2020/07/cropped-Design-ohne-Titel-1-2.png)
