@@ -1,6 +1,6 @@
 # Opening the Density-Functional Theory Black Box
 
-<img align='right' src='https://github.com/BashirovaD/DFT_code/blob/main/figures/graphical_abstract.png' width = "393" height = "452"> 
+<img align='left' src='https://github.com/BashirovaD/DFT_code/blob/main/figures/graphical_abstract.png' width = "393" height = "452"> 
 
 > 'It is nice to know that the computer understands the problem. But **I would like to understand it too**.' 
 >  
