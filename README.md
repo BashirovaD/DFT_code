@@ -1,7 +1,4 @@
 # Opening the Density-Functional Theory Black Box
-<p align="left"> 
-  <img src='https://github.com/BashirovaD/DFT_code/blob/main/figures/graphical_abstract.png' width = "393" height = "452"> 
-</p>
 
 > 'It is nice to know that the computer understands the problem. But **I would like to understand it too**.' 
 >  
@@ -9,6 +6,9 @@
 
 This repository contains three Google Colab notebooks that are designed to facilitate understanding of Density-Functional Theory (DFT) through interactive visualizations. Our motivation for developing this software stems from the knowledge deficiency that is often produced from using DFT as a black box in commercial software. By applying DFT to the familiar particle in a box model system employing a real-space grid basis, we hope to have reduced DFT to its fundamental essence fit for pedagogy. Brief instructions for executing the code are provided at the beginning of each notebook and a problem sheet for getting started is attached. The notebooks can be accessed without any installation through Google Colab by simply clicking on the links and signing in with a Google account (unrecommended offline alternative is provided [here](offline_jupyter/README.md)). Python programming knowledge is not required.
 
+<p align="center"> 
+  <img src='https://github.com/BashirovaD/DFT_code/blob/main/figures/graphical_abstract.png' width = "393" height = "452"> 
+</p>
 
 ## Notebook 1&ndash;Particle in a 3D Box
 <img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB1_wavefunction.png' width = "324" height = "300">
