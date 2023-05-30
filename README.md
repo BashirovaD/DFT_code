@@ -60,7 +60,9 @@ Abbreviated notebook with the DFT calculator and analysis tools:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/notebooks/NB3_DFT_PIB_calculator.ipynb)
 
 <br>
-```
+
+```sh
+
 ----------------------------------------------------------------------------------
 
  __/\\\\\\\\\\\\_______________/\\\\\\\\\\\\\\\____________/\\\\\\\\\\\\\\\_
@@ -77,4 +79,5 @@ Abbreviated notebook with the DFT calculator and analysis tools:
                              Oregon State University                            
 
 ----------------------------------------------------------------------------------
+
 ```
