@@ -57,6 +57,8 @@ Abbreviated notebook with the DFT calculator and analysis tools:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/notebooks/NB3_DFT_PIB_calculator.ipynb)
 
+<br>
+
 ---
 
 ### Citation &nbsp; &nbsp; [![DOI:<10.1021/acs.jchemed.3c00535>](http://img.shields.io/badge/DOI-10.1021/acs.jchemed.3c00535-blue.svg)](<http://dx.doi.org/10.1021/acs.jchemed.3c00535>)
