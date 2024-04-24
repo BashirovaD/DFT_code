@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8187932.svg)](https://doi.org/10.5281/zenodo.8187931)
-[![ChemRxiv](http://img.shields.io/badge/ChemRxiv-10.26434/chemrxiv--2023--jfgcl-#FFFF00.svg)](http://dx.doi.org/10.26434/chemrxiv-2023-jfgcl)
+[![ChemRxiv](http://img.shields.io/badge/ChemRxiv-10.26434/chemrxiv--2023--jfgcl-lightgrey.svg)](http://dx.doi.org/10.26434/chemrxiv-2023-jfgcl)
 
 ## Citation 
 
