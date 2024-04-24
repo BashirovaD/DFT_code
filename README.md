@@ -19,7 +19,6 @@
 
 ![screencast](https://cloud.githubusercontent.com/assets/1765949/23901444/8d4f26f8-08bd-11e7-81e6-cedad0a8471c.gif)
 
-<img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "324" height = "300">
 
 ## Citation 
 
@@ -30,7 +29,9 @@ This repository contains three Google Colab notebooks that are designed to facil
 <br>
 <br>
 
+## test
 
+<img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "324" height = "300">
 
 ## Notebook 1&ndash;Particle in a 3D Box
 <img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB1_wavefunction.png' width = "324" height = "300">
