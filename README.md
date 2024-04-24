@@ -19,6 +19,8 @@
 
 ![screencast](https://cloud.githubusercontent.com/assets/1765949/23901444/8d4f26f8-08bd-11e7-81e6-cedad0a8471c.gif)
 
+<img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "324" height = "300">
+
 ## Citation 
 
 10.26434/chemrxiv-2023-jfgcl
