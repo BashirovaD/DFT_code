@@ -15,14 +15,7 @@
 [![ChemRxiv](http://img.shields.io/badge/ChemRxiv-10.26434/chemrxiv--2023--jfgcl-EEEA62.svg)](http://dx.doi.org/10.26434/chemrxiv-2023-jfgcl)
 [![DOI:<10.1021/acs.jchemed.3c00535>](http://img.shields.io/badge/JCE_Paper-10.1021/acs.jchemed.3c00535-blue.svg)](http://dx.doi.org/10.1021/acs.jchemed.3c00535)
 
-## testing
-
-![screencast](https://cloud.githubusercontent.com/assets/1765949/23901444/8d4f26f8-08bd-11e7-81e6-cedad0a8471c.gif)
-
-
 ## Citation 
-
-10.26434/chemrxiv-2023-jfgcl
 
 This repository contains three Google Colab notebooks that are designed to facilitate understanding of Density-Functional Theory (DFT) through interactive visualizations. Our motivation for developing this software stems from the knowledge deficiency that is often produced from using DFT as a black box in commercial software. By applying DFT to the familiar particle in a box model system employing a real-space grid basis, we hope to have reduced DFT to its fundamental essence fit for pedagogy. Brief instructions for executing the code are provided at the beginning of each notebook and a [problem sheet](https://github.com/BashirovaD/DFT_code/blob/main/DFT_worksheet.pdf) for getting started is attached. The notebooks can be accessed without any installation through Google Colab by simply clicking on the links and signing in with a Google account (unrecommended offline alternative is provided [here](offline_jupyter/README.md)). Python programming knowledge is not required.
 <br>
@@ -30,11 +23,12 @@ This repository contains three Google Colab notebooks that are designed to facil
 <br>
 
 ## Notebook 1&ndash;Particle in a 3D Box
-<img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "700" height = "398">
 In this notebook, we’ll consider the particle in a three-dimensional box system treated in any undergraduate physical chemistry textbook. High-quality energy level diagrams and isosurface renderings of the wavefunction can be generated from user-specified box lengths. Depicted here is the 321 state of an anthracene-like box of dimensions 16 x 8 x 3 Bohr. 
 <br />
 <br>
 <strong> Click here to open the notebook in Google Colab: </strong> 
+
+<img align="center" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "700" height = "398">
 
 <br>
 
