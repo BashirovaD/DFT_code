@@ -31,7 +31,15 @@ This repository contains three Google Colab notebooks that are designed to facil
 
 ## test
 
-<img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "324" height = "300">
+<img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "400" height = "227">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Notebook 1&ndash;Particle in a 3D Box
 <img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB1_wavefunction.png' width = "324" height = "300">
