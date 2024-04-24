@@ -29,20 +29,8 @@ This repository contains three Google Colab notebooks that are designed to facil
 <br>
 <br>
 
-## test
-
-<img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "400" height = "227">
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## Notebook 1&ndash;Particle in a 3D Box
-<img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB1_wavefunction.png' width = "324" height = "300">
+<img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "500" height = "284">
 In this notebook, we’ll consider the particle in a three-dimensional box system treated in any undergraduate physical chemistry textbook. High-quality energy level diagrams and isosurface renderings of the wavefunction can be generated from user-specified box lengths. Depicted here is the 321 state of an anthracene-like box of dimensions 16 x 8 x 3 Bohr. 
 <br />
 <br>
