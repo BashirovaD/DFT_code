@@ -28,13 +28,15 @@ In this notebook, we’ll consider the particle in a three-dimensional box syste
 <br>
 <strong> Click here to open the notebook in Google Colab: </strong> 
 
-<img align="center" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "700" height = "398">
-
 <br>
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/notebooks/NB1_3D_PIB.ipynb)
 
 <br>
+
+<img align="center" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "700" height = "398">
+
 <br>
 <br>
 <br>
