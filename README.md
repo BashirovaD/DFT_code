@@ -13,6 +13,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8187932.svg)](https://doi.org/10.5281/zenodo.8187931)
 [![ChemRxiv](http://img.shields.io/badge/ChemRxiv-10.26434/chemrxiv--2023--jfgcl-EEEA62.svg)](http://dx.doi.org/10.26434/chemrxiv-2023-jfgcl)
+[![DOI:<10.1021/acs.jchemed.3c00535>](http://img.shields.io/badge/JCE_Paper-10.1021/acs.jchemed.3c00535-blue.svg)](http://dx.doi.org/10.1021/acs.jchemed.3c00535)
 
 ## Citation 
 
