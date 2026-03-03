@@ -35,17 +35,9 @@ In this notebook, we’ll consider the particle in a three-dimensional box syste
 
 <br>
 
-<img class="center" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "700" height = "398">
-
 <div align="center">
-  <img src="https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif" width="700" height="398">
+  <img src="https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif" width="600" height="341">
 </div>
-
-<p align="center">
-  <img src="https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif" width="700" height="398">
-</p>
-
-![wavefunction](figures/wavefunction_anim.gif)
 
 ## Notebook 2&ndash;PAH Frontier Orbitals ⌬
 <img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB2_anthracene.png' width = "300" height = "169">
