@@ -30,6 +30,8 @@ In this notebook, we’ll consider the particle in a three-dimensional box syste
 
 <br>
 
+[![Watch the video](https://img.youtube.com/vi/Gdt1iGrZxpg/0.jpg)](https://www.youtube.com/watch?v=Gdt1iGrZxpg)
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/notebooks/NB1_3D_PIB.ipynb)
 
