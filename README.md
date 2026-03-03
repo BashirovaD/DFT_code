@@ -23,9 +23,6 @@ This repository contains three Google Colab notebooks that are designed to facil
 <br>
 
 ## Notebook 1&ndash;Particle in a 3D Box 📦
-<div style="text-align:center;">
-  <img src="https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif" width="700" height="398">
-</div>
 In this notebook, we’ll consider the particle in a three-dimensional box system treated in any undergraduate physical chemistry textbook. High-quality energy level diagrams and isosurface renderings of the wavefunction can be generated from user-specified box lengths. Depicted here is the 321 state of an anthracene-like box of dimensions 16 x 8 x 3 Bohr. 
 <br />
 <br>
@@ -33,11 +30,12 @@ In this notebook, we’ll consider the particle in a three-dimensional box syste
 
 <br>
 
-<img class="center" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "700" height = "398">
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/notebooks/NB1_3D_PIB.ipynb)
 
 <br>
+
+<img class="center" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "700" height = "398">
 
 ## Notebook 2&ndash;PAH Frontier Orbitals ⌬
 <img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB2_anthracene.png' width = "300" height = "169">
