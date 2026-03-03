@@ -37,6 +37,16 @@ In this notebook, we’ll consider the particle in a three-dimensional box syste
 
 <img class="center" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif' width = "700" height = "398">
 
+<div align="center">
+  <img src="https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif" width="700" height="398">
+</div>
+
+<p align="center">
+  <img src="https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif" width="700" height="398">
+</p>
+
+![wavefunction](figures/wavefunction_anim.gif)
+
 ## Notebook 2&ndash;PAH Frontier Orbitals ⌬
 <img align="right" src='https://github.com/BashirovaD/DFT_code/blob/main/figures/NB2_anthracene.png' width = "300" height = "169">
 Next, we’ll look at a real chemical system in the form of polycyclic aromatic hydrocarbons (PAHs). We can perform Hartree-Fock/STO-3G calculations to find the shapes and energies of their frontier molecular orbitals, which can make for interesting comparisons with the analogous results from Notebook 1.
