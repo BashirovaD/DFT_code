@@ -30,8 +30,7 @@ In this notebook, we’ll consider the particle in a three-dimensional box syste
 
 <br>
 
- * <a href="https://chemistry.oregonstate.edu/directory/jacob-hirschi"> <img alt="OSU Logo" class="icon" src="figures/logo-youtube.svg" style="width:20px; height:20px; margin-
- right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>Oregon State University</b> Jacob Hirschi</a>
+ * <a href="https://chemistry.oregonstate.edu/directory/jacob-hirschi"> <img alt="OSU Logo" class="icon" src="figures/logo-youtube.svg" style="width:30px; height:30px; margin-right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> Video Overview (2 min)</a>
 
 
 
