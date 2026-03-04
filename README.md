@@ -30,7 +30,9 @@ In this notebook, we’ll consider the particle in a three-dimensional box syste
 
 <br>
 
-[![Watch the video](https://img.youtube.com/vi/Gdt1iGrZxpg/0.jpg)](https://www.youtube.com/watch?v=Gdt1iGrZxpg)
+ * <a href="https://chemistry.oregonstate.edu/directory/jacob-hirschi"> <img alt="OSU Logo" class="icon" src="figures/logo-youtube.svg" style="width:20px; height:20px; margin-
+ right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>Oregon State University</b> Jacob Hirschi</a>
+
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BashirovaD/DFT_code/blob/main/notebooks/NB1_3D_PIB.ipynb)
