@@ -49,7 +49,7 @@ In this notebook, we’ll consider the particle in a three-dimensional box syste
 <p align="right">
   <img src="https://github.com/BashirovaD/DFT_code/blob/main/figures/wavefunction_anim.gif" width="600" height="341">
   <br>
-  <em>Figure 1. Time evolution of the wavefunction in a 1D potential.</em>
+  <em>Figure 1. Time evolution of the wavefunction in a 1D potential using a standard PIB wavefunction basis with discretized vector-based particles.</em>
 </p>
 
 
